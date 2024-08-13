@@ -1,6 +1,5 @@
 package com.movietickets.repository;
 
-import com.movietickets.entity.Screen;
 import com.movietickets.entity.Showtime;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
